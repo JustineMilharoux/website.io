@@ -1,0 +1,12 @@
+
+.cta {
+    padding: 10px 20px;
+    background-color: #ff9933;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta:hover {
+    background-color: #cc6600;
+}

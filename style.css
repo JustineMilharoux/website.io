@@ -1,0 +1,33 @@
+/* Styles pour les villes du Mexique */
+.villes {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.ville {
+    width: 30%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ville h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.ville p {
+    font-size: 16px;
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
