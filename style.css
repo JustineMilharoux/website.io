@@ -1,4 +1,4 @@
-/* Styles pour les villes du Mexique */
+
 .villes {
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@
     font-size: 16px;
 }
 
-/* Styles pour le pied de page */
+
 footer {
     background-color: #333;
     color: #fff;
